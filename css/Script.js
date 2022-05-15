@@ -1,4 +1,4 @@
-const fulImgBox= document.getElementById("fulImgBox"),
+const fulImgBox = document.getElementById("fulImgBox"),
 fulImg = document.getElementById("fulImg");
 
 function openFulImg(reference){
